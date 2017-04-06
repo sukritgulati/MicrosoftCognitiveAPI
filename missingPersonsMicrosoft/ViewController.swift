@@ -7,7 +7,7 @@
 //
 
 import UIKit
-import ProjectOxfordFace
+import ProjectOxfordFace 
 
 let baseURL = "http://localhost:6069/img/"
 
